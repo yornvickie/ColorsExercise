@@ -1,0 +1,47 @@
+h1 {
+    color:blue;
+    background-color: red;
+}
+
+h2 {
+    color:#25E2F6;
+    background-color: orange;
+}
+
+h3 {
+    color:#88f;
+    background-color: yellow;
+}
+
+h4 {
+    color:#07485055;
+    background-color: green;
+}
+
+h5 {
+    color: #88ff;
+    background-color: blue;
+}
+
+h6 {
+    color:rgb(100, 150, 200);
+    background-color: indigo;
+}
+
+p {
+    color:rgba(200, 00, 50, 1);
+    background-color: violet;
+}
+
+li:first-child {
+    color: hotpink;
+    border: 5px solid;
+    border-color: green;
+}
+
+li:last-child {
+    background-color: peachpuff;
+    border: 5px solid;
+    border-color: green;
+}
+
